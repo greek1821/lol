@@ -1,7 +1,2 @@
-print("My perro is going to take")
-
-print("licks anus \n walks away")
-
-print('A CACa')
-
-print("EXTA CACA")
+print('back on my shiut')
+import cryptography
